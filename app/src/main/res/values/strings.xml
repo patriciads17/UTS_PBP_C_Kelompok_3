@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PYB</string>
+    <string name="student_name">Patricia Devita Samara</string>
+    <string name="student_email">190710364@students.uajy.ac.id</string>
+    <string name="student_location">Makassar,Indonesia</string>
+    <string name="phonenum">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="location">Current Location</string>
+    <string name="badge">Submit Assignments before the Deadline</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="linkedacc">Linked Account</string>
+    <string name="Badge">Badge</string>
+    <string name="myprofile">MY PROFILE</string>
+    <string name="detail">Detail</string>
+    <string name="grade">Grade</string>
+    <string name="reminder">Reminder</string>
+    <string name="profile">Profile</string>
+    <string name="course">Course</string>
+    <string name="announcement">Announcement</string>
+    <string name="title_home">Home</string>
+    <string name="title_course">Course</string>
+    <string name="title_announcement">Announcements</string>
+    <string name="text_login_page">Learning Management \n System</string>
+    <string name="button_login">LOG IN</string>
+    <string name="button_register">REGISTER</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="npm">NPM</string>
+    <string name="student_mail">Student Mail</string>
+    <string name="cancel">CANCEL</string>
+    <string name="setting">SETTING</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="notification">Notification</string>
+    <string name="about">ABOUT</string>
+    <string name="about_us">About Us</string>
+    <string name="help_center">Help Center</string>
+    <string name="log_out">Log Out</string>
+    <string name="setting_notification">Setting Notification</string>
+    <string name="notification_for_assignment">Notification for Assignment</string>
+    <string name="notification_for_new_announcement">Notification for New Announcement</string>
+    <string name="notification_for_grade">Notification for Grade</string>
+    <string name="save">Save</string>
+    <string name="setting1">Setting</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoicGF0cmljaWFkczE3IiwiYSI6ImNrdXFra3p5djAxcjcycG55ZGI5MGUyMWkifQ.BRB4gtCS0aTaNmzLTwdHxw</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

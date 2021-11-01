@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".AnnouncementFragment"
+        android:background="@color/app_bg">
+
+        <TextView
+            android:id="@+id/announ_title"
+            style="@style/TextAppearance.MaterialComponents.Headline4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:text="Announcement"
+            android:textAlignment="center"
+            android:textColor="@color/white" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_marginTop="90dp"
+            android:layout_height="600dp">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_announcement"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/announ_title"
+                tools:listitem="@layout/item_announcement" />
+        </ScrollView>
+    </RelativeLayout>
+
+
+</layout>
